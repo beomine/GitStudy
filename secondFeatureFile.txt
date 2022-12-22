@@ -1,0 +1,4 @@
+git checkout main
+git pull
+git pull origin feature/my-feature
+git push
